@@ -25,6 +25,9 @@
  *  to normal fixed dimenson tensor
  * \author Tianqi Chen
  */
+/*
+TBlob类可以表示任意维度、在任意设备上、任意数据类型的张量，它是NDArray的内部存储，是mxnet中最底层的数据结构。但本质上它是对DLTensor的代理，DLTensor定义在第三方库dlpack中的dlpack.h文件中
+*/
 #ifndef MXNET_TENSOR_BLOB_H_
 #define MXNET_TENSOR_BLOB_H_
 

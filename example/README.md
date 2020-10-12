@@ -196,7 +196,7 @@ If your tutorial depends on specific packages, simply add them to this provision
 
 ### <a name="learning-note"></a>Learning Note
 * [Learning Note in Chinese](https://github.com/zhubuntu/MXNet-Learning-Note) - MXNet learning note in Chinese.
-* [Getting Started with MXNet](https://indico.io/blog/getting-started-with-mxnet/) by [indico.io](https://indico.io) (Chinese Translation [MXNet实践](http://www.infoq.com/cn/articles/practise-of-mxnet) by [侠天](http://www.infoq.com/cn/author/%E4%BE%A0%E5%A4%A9) )
+* [Getting Started with MXNet](https://indico.io/blog/getting-started-with-mxnet/) by [indico.io](https://indico.io) (Chinese Translation [MXNet 实践](http://www.infoq.com/cn/articles/practise-of-mxnet) by [侠天](http://www.infoq.com/cn/author/%E4%BE%A0%E5%A4%A9) )
 * [{mxnet} R package from MXnet, an intuitive Deep Learning framework including CNN & RNN](http://tjo-en.hatenablog.com/entry/2016/03/30/233848) by [TJO](http://tjo-en.hatenablog.com/)
 * [MXnet with R: combined power of deep learning](http://cos.name/2016/04/mxnet-r/) in Chinese by Tong He
 * [Understand MXNet dependency engine](http://yuyang0.github.io/articles/mxnet-engine.html) in Chinese by [Yu Yang](https://github.com/yuyang0)

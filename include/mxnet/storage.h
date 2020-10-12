@@ -22,6 +22,10 @@
  * \file storage.h
  * \brief Storage manager across multiple devices.
  */
+
+/*
+Storage是一个跨设备的内存管理类，它提供了内存分配和回收的功能，但并不存储分配的内存，真正的内存指针分配在Storage类内部的Handle结构体中：
+*/
 #ifndef MXNET_STORAGE_H_
 #define MXNET_STORAGE_H_
 
@@ -46,7 +50,7 @@ class Storage {
     /*!
      * \brief Pointer to the data.
      */
-    void* dptr{nullptr};
+    void* dptr{nullptr};//内存地址
     /*!
      * \brief Size of the storage.
      */
